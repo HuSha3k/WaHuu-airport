@@ -8,7 +8,7 @@ proxies:
   - name: "威锐娃"
     type: vmess
     server: 64.27.30.38
-    port: 45454
+    port: 64273
     uuid: 8fdc522a-f859-4030-8d86-16962bb0df98
     alterId: 233
     cipher: aes-128-gcm
